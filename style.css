@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: Courier;
+    color: chocolate;
+    background-color: blue;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+
+h2 {
+    font-family: Courier;
+    color: white;
+}
+
+#starters_image_div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 406px;
+    height: 255px;
+    border: 5px solid blue;
+}
+
+.each_pokemon_container {
+    text-align: center;
+}
+
+p {
+    font-family: Courier;
+    color: white;
+}
+
+li {
+    font-family: Courier;
+    color: white;
+}
+
+h3 {
+    font-family: Courier;
+    color: white;
+}
+
+#bulbasaur_container{
+    background: rgb(64, 197, 52);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#charmander_container{
+    background: rgba(214, 93, 85, 0.411);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#squirtle_container{
+    background: rgb(116, 102, 199);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    color: white;
+}
